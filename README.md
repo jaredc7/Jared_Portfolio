@@ -1,3 +1,5 @@
 # Jared_Portfolio
 
-Some Learnings
+Some leanrings + adventures from my projects
+
+More to come...
