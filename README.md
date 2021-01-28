@@ -2,7 +2,7 @@
 
 ## Some Leanrings + Adventures from My Projects
 
-### [1. Shiny App Visualization](https://github.com/jaredc7/research_public/blob/main/app.R)
+### 1. [Shiny App Visualization](https://github.com/jaredc7/research_public/blob/main/app.R)
 
 **Overview**
 
@@ -10,7 +10,7 @@ Spent some time working with Dr.Saraf to visualize networks of IT firms and indu
 
 ![](/images/Screen%20Shot%202021-01-27%20at%2010.56.55%20PM.png)
 
-### [2. Charity Site](https://github.com/jaredc7/465_project)
+### 2.[Charity Site](https://github.com/jaredc7/465_project)
 
 **Overview**
 
