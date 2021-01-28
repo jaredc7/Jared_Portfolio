@@ -14,7 +14,7 @@ Spent some time working with Dr.Saraf to visualize networks of IT firms and indu
 
 **Overview**
 
-Not quite a data focused project, but was learning mostly backend PHP and javascript functionalities to create a "Movember" Foundation website. Technologies I learnt along the way was MAMP, MySQLWorkbench and Apache. Not anything new but an interesting project to think about how data is collected and can be improved from start to analysis.
+Not quite a data focused project, but was learning mostly backend PHP and javascript functionalities to create a "Movember" Foundation website. Technologies I learnt along the way were MAMP, MySQLWorkbench and Apache. Not anything new but an interesting project to think about how data is collected and can be improved from start to analysis.
 
 ![](/images/Screen%20Shot%202021-01-27%20at%2011.23.27%20PM.png)
 
