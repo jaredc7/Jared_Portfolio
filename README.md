@@ -1,6 +1,6 @@
 # Jared_Portfolio
 
-## Some leanrings + adventures from my projects
+## Some Leanrings + Adventures from My Projects
 
 ### [1. Shiny App Visualization](https://github.com/jaredc7/research_public/blob/main/app.R): 
 
