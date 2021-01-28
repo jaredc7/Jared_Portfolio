@@ -2,7 +2,7 @@
 
 ## Some leanrings + adventures from my projects
 
-### First Ever R Shiny App: 
+### [First Ever R Shiny App](https://github.com/jaredc7/research_public/blob/main/app.R): 
 
 **Overview**
 
